@@ -1,0 +1,8 @@
+pessoa:
+  nome: Pessoa 1
+  cpf: 252652654
+
+spring:
+  mongodb:
+    embedded:
+      version: 4.12.0
